@@ -21,4 +21,4 @@ like:
 
 If you generate a workshop manifest, the depotkey needs the depotkey of the main appid (all workshop manifests have one depotkey)
 
-If you want to use a fake depotkey to generate an unencrypted list, you only need to fill in an aes256 key at random.
+If you want to use a fake depotkey to generate unencrypted manifests, you only need to fill in an aes256 key at random.
